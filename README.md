@@ -1,2 +1,4 @@
-autopilot-scratch
+autopilot-vagrant
 =================
+
+Vagrant install for autopilot
